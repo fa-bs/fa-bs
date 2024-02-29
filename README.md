@@ -1,4 +1,4 @@
-Design • Vue.js
+Visual Designer • Dev Front-End Vue.js and Nuxt.js
 
 <!--
 **fa-bs/fa-bs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
