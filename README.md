@@ -1,4 +1,9 @@
-Visual Designer • Dev Front-End Vue.js and Nuxt.js
+Hey guys, I'm a visual designer and front-end developer based in São Paulo, Brazil.
+
+![icon-html](https://github.com/fa-bs/fa-bs/assets/109015342/ed017a69-24ce-413c-a997-a93137122420)![icon-css](https://github.com/fa-bs/fa-bs/assets/109015342/71f78eae-b40d-40c7-b6e7-2bf67ff3cfa9)•![icon-tailwind](https://github.com/fa-bs/fa-bs/assets/109015342/6b925369-fabe-4d62-87df-eb5cc0e9725f)![icon-bootstrap](https://github.com/fa-bs/fa-bs/assets/109015342/8a367688-6b07-4352-93b7-1d0258f9c911)• ![icon-javascript](https://github.com/fa-bs/fa-bs/assets/109015342/bb599d0e-c4df-4e53-b05f-6d4ff6119bd1)![icon-typescript](https://github.com/fa-bs/fa-bs/assets/109015342/d8f5335d-dbc8-4dff-ba97-53f34936be0f)
+![icon-vue](https://github.com/fa-bs/fa-bs/assets/109015342/3838815f-e21a-4f20-937f-32d66d55aafa)• ![icon-pinia](https://github.com/fa-bs/fa-bs/assets/109015342/d481d67e-804f-42d4-80eb-dbdea7335047) ![icon-vueuse](https://github.com/fa-bs/fa-bs/assets/109015342/b45b4772-87e4-478e-8d77-7233a9bdef6f)
+![icon-nuxt](https://github.com/fa-bs/fa-bs/assets/109015342/bf6f080e-ee64-4731-835f-b02626fe42a2)• ![icon-git](https://github.com/fa-bs/fa-bs/assets/109015342/fec2b674-ca0f-4e5e-9829-c489ed24857f)![icon-github](https://github.com/fa-bs/fa-bs/assets/109015342/eb9c0ccd-bae0-4a36-b682-a265b8b86293)
+
 
 <!--
 **fa-bs/fa-bs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
